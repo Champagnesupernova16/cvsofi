@@ -755,6 +755,7 @@ footer img{
         display: none;
         height: auto;
         width: auto;
+        left: 30px;
     }
     .inicio .contenido-seccion header nav a{
         
